@@ -2,7 +2,7 @@
 
 <h1 align="left">🌱 Interesting in Software Engineer</h3>
 <p>🔗 Hi! I'm Ngọc Bảo, a Computer Science student at the University of Engineering and Technology, Vietnam National University, Hanoi (VNU-UET)</p>
-<p>💼 A passionate and motivated individual seeking a Full-Stack Intern position to kickstart my career in Software Development.</p>
+<p>💼 A passionate and motivated individual seeking a Full-Snack Intern position to kickstart my career in Software Development.</p>
 <p>🌐 I enjoy building web applications, solving technical challenges, and learning new technologies to create impactful solutions.</p>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>

@@ -17,7 +17,7 @@
 <p align="center">
   <i> Get in touch with me </i>
   <p align="center">
-      <a href="https://www.linkedin.com/in/ngocbao/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/linkedin-box-fill.svg"></a>
+      <a href="https://www.linkedin.com/in/nqocbao2806/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/linkedin-box-fill.svg"></a>
       <a href="https://www.instagram.com/_nqocbao/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/instagram-line.svg"></a>
       <a href="mailto:baonguyen9b1@gmail.com"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/mail-fill.svg"></a>
 </p>
